@@ -6,7 +6,6 @@ import (
 	"crypto/rand"
 	"encoding/binary"
 	"encoding/hex"
-
 	"github.com/okx/go-wallet-sdk/util"
 )
 
